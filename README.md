@@ -106,7 +106,6 @@ Abre un Pull Request describiendo tus mejoras.
 ---
 
 <p align="center">
-  <strong>Desarrollo Web en Entorno Servidor (DWES)</strong> &nbsp;&middot;&nbsp; GS-DAW &nbsp;&middot;&nbsp; IES Augustobriga
-  <br/>
+  <strong>Desarrollo Web en Entorno Servidor (DWES)</strong> &nbsp;&middot;&nbsp; GS-DAW &nbsp;&middot;&nbsp; IES Augustobriga<br/>
   Sergio Orgaz Bravo
 </p>
