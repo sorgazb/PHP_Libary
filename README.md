@@ -106,8 +106,6 @@ Abre un Pull Request describiendo tus mejoras.
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/UNEX.png" alt="IES Augustobriga" height="80"/>
-  <br/><br/>
   <strong>Desarrollo Web en Entorno Servidor (DWES)</strong> &nbsp;&middot;&nbsp; GS-DAW &nbsp;&middot;&nbsp; IES Augustobriga
   <br/>
   Sergio Orgaz Bravo
